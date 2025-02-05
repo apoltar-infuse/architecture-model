@@ -1,0 +1,13 @@
+<archimate:AccessRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Create a new Campaign from Requirements DTO and Campaign Replica"
+    id="id-052312b08cd948c99a6ef0508b64c3a6"
+    documentation="- store requirements&#xD;&#xA;- goals&#xD;&#xA;- ...">
+  <source
+      xsi:type="archimate:ApplicationFunction"
+      href="ApplicationFunction_id-d5411cf30a914e4ab73163b22fc5cd78.xml#id-d5411cf30a914e4ab73163b22fc5cd78"/>
+  <target
+      xsi:type="archimate:DataObject"
+      href="DataObject_id-69bcfcdf5a5d4fb09700054f77966787.xml#id-69bcfcdf5a5d4fb09700054f77966787"/>
+</archimate:AccessRelationship>

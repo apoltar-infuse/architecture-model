@@ -1,0 +1,5 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Campaign Replica"
+    id="id-18f20bedee7d4f3593fd77677fe81489"
+    documentation="A copy of the campaign retrieved from the Registry module for internal processing. It serves as the source for creating a Campaign&#xD;&#xA;&#xD;&#xA;This is data replica from Registry it is stored in dedicated DB within LV"/>

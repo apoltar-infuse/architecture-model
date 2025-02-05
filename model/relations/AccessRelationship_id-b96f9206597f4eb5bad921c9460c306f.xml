@@ -1,0 +1,12 @@
+<archimate:AccessRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Create a Company from the Collection DTO"
+    id="id-b96f9206597f4eb5bad921c9460c306f">
+  <source
+      xsi:type="archimate:ApplicationFunction"
+      href="ApplicationFunction_id-38edf417c4734c57bc0fe8c0ea5cc2e2.xml#id-38edf417c4734c57bc0fe8c0ea5cc2e2"/>
+  <target
+      xsi:type="archimate:DataObject"
+      href="DataObject_id-eca529ddf94b4a62ad4b671f8297270b.xml#id-eca529ddf94b4a62ad4b671f8297270b"/>
+</archimate:AccessRelationship>

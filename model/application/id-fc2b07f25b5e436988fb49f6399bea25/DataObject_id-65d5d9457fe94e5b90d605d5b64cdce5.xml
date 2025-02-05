@@ -1,0 +1,5 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Verification List (List)"
+    id="id-65d5d9457fe94e5b90d605d5b64cdce5"
+    documentation="Contains companies and contacts copied from Collection for verification purposes.&#xD;&#xA;&#xD;&#xA;For the most cases for every Collection we have only one Verification List, but in some scenarios it possible to have multiple Verification Lists per Collection. &#xD;&#xA;&#xD;&#xA;Physically, Verification Lists entity is stored as a record in the Lists table, having local_type=0"/>

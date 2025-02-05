@@ -1,0 +1,5 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Collection DTO"
+    id="id-125fd91a64424723ad39e41f373409f4"
+    documentation="json object containing Contacts and Companies"/>

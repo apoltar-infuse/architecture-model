@@ -1,0 +1,10 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SCS"
+    id="id-0cce8561e4bf4cc69bcfd32e51c27e20">
+  <properties
+      key="status"/>
+  <properties
+      key="ownership"
+      value="partner"/>
+</archimate:ApplicationComponent>

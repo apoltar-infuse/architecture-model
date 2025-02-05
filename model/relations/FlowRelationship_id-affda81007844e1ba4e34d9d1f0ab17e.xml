@@ -1,0 +1,12 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Send collection for verification"
+    id="id-affda81007844e1ba4e34d9d1f0ab17e">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-d0d3a26d340f44feab6361972da3f674.xml#id-d0d3a26d340f44feab6361972da3f674"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-9ef98d2813f7495da8fed56176e59498.xml#id-9ef98d2813f7495da8fed56176e59498"/>
+</archimate:FlowRelationship>

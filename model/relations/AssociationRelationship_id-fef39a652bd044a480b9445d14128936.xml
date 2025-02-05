@@ -1,0 +1,13 @@
+<archimate:AssociationRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Entered manually"
+    id="id-fef39a652bd044a480b9445d14128936"
+    directed="true">
+  <source
+      xsi:type="archimate:DataObject"
+      href="DataObject_id-c54679e564d448f9b50f9478d30fb146.xml#id-c54679e564d448f9b50f9478d30fb146"/>
+  <target
+      xsi:type="archimate:DataObject"
+      href="DataObject_id-69bcfcdf5a5d4fb09700054f77966787.xml#id-69bcfcdf5a5d4fb09700054f77966787"/>
+</archimate:AssociationRelationship>

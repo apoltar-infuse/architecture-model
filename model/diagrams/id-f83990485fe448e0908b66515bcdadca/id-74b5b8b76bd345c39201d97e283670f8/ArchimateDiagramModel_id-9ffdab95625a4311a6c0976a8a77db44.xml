@@ -1,0 +1,42 @@
+<archimate:ArchimateDiagramModel
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="3. LV Functional View"
+    id="id-9ffdab95625a4311a6c0976a8a77db44">
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-a2d9d1c0fc26488ebdbc033ceb1dca3d">
+    <bounds
+        x="168"
+        y="456"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:ApplicationService"
+        href="ApplicationService_id-5460e3db324d416d904846ae73174d58.xml#id-5460e3db324d416d904846ae73174d58"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-8b4ca4fc7ac04370bfdac6af8e955020">
+    <bounds
+        x="324"
+        y="108"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:Capability"
+        href="Capability_id-7f139557b08344bcbd4ddddf49060152.xml#id-7f139557b08344bcbd4ddddf49060152"/>
+  </children>
+  <children
+      xsi:type="archimate:DiagramModelArchimateObject"
+      id="id-c1bcefee27e84b55af2149383b5db45c">
+    <bounds
+        x="528"
+        y="108"
+        width="120"
+        height="55"/>
+    <archimateElement
+        xsi:type="archimate:Capability"
+        href="Capability_id-ffc543ac90514f05a9bde9e904963092.xml#id-ffc543ac90514f05a9bde9e904963092"/>
+  </children>
+</archimate:ArchimateDiagramModel>

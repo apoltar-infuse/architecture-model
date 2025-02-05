@@ -1,0 +1,18 @@
+<archimate:ArchimateModel
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="infuse"
+    id="id-8d5d7a77fad34b1f9e9c5ac9801395b5"
+    version="5.0.0">
+  <profiles
+      name="to-be"
+      id="id-fdd6f565a662494a9f70fdd59e66acf5"
+      conceptType="AssociationRelationship"/>
+  <profiles
+      name="Security"
+      id="id-c27506e89d084ab5aef2cbd5eab40d7b"
+      conceptType="Requirement"/>
+  <profiles
+      name="logical only"
+      id="id-1749127aa1db41c09af0650e12aa877b"
+      conceptType="AssociationRelationship"/>
+</archimate:ArchimateModel>

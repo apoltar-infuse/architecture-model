@@ -1,0 +1,5 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Report View"
+    id="id-18ab2b92a9b54fbeb649d4afee8f18cf"
+    documentation="A copy of the verified data from Verification List, storing validated contacts and companies.&#xD;&#xA;&#xD;&#xA;Physically, Report View entity is stored as a record in the Lists table, having local_type=3"/>

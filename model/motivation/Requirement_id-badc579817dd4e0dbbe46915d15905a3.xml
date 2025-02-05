@@ -1,0 +1,7 @@
+<archimate:Requirement
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Security"
+    id="id-badc579817dd4e0dbbe46915d15905a3">
+  <profiles
+      href="folder.xml#id-c27506e89d084ab5aef2cbd5eab40d7b"/>
+</archimate:Requirement>

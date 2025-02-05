@@ -1,0 +1,5 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Companies"
+    id="id-eca529ddf94b4a62ad4b671f8297270b"
+    documentation="Stores a list of companies associated with the Campaign and a Contact within Campaign"/>

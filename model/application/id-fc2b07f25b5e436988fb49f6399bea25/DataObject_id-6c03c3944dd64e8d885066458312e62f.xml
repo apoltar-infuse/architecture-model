@@ -1,0 +1,5 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Collection"
+    id="id-6c03c3944dd64e8d885066458312e62f"
+    documentation="Set of Contacts, Companies received from CM. Serves as transient data before Verification processes started&#xD;&#xA;&#xD;&#xA;Physically, Collection Entity is stored as a record in the Lists table, having local_type=1"/>

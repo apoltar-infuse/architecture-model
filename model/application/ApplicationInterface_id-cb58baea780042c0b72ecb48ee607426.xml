@@ -1,0 +1,5 @@
+<archimate:ApplicationInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="VT PV For QC"
+    id="id-cb58baea780042c0b72ecb48ee607426"
+    documentation="VT PV For QC is a page wich displays the progress of QC verifications for each PVS user with the possibility of various filtering and sorting. Access to this page is available to QC and  LV TL users \of the system."/>

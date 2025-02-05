@@ -1,0 +1,13 @@
+<archimate:AccessRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="from email"
+    id="id-cc280b1904ac4d34b74e5e820402d038"
+    accessType="1">
+  <source
+      xsi:type="archimate:BusinessFunction"
+      href="BusinessFunction_id-153ef4e4ad6b44b9a8b0ec040ada74d1.xml#id-153ef4e4ad6b44b9a8b0ec040ada74d1"/>
+  <target
+      xsi:type="archimate:BusinessObject"
+      href="BusinessObject_id-7eed5ce20ff64aafb2b75fc63fc7f774.xml#id-7eed5ce20ff64aafb2b75fc63fc7f774"/>
+</archimate:AccessRelationship>

@@ -1,0 +1,5 @@
+<archimate:ApplicationInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Statistic"
+    id="id-bbc99e47cf1c41be937b8feb6a719bf3"
+    documentation="- LV Productivity is a page to display statistics data for all OVS, DRS, PVS users by day with the possibility of various filtering and sorting. Access to this page is available to all users of the system.&#xD;&#xA;&#xD;&#xA;- QC Productivity  is a page to display statistics data for QC users bu day with the possibility of various filtering and sorting. Access to this page is available to QC users users of the system.&#xD;&#xA;&#xD;&#xA;- Weakly QC Productivity is a page to display statistics data for QC users by each day of week and total by week with the possibility of various filtering and sorting. Access to this page is available to QC users users of the system.&#xD;&#xA;&#xD;&#xA;- My Productivity is a page to display statistics data for user with the possibility of various filtering and sorting. Access to this page is available to current user and his TL, QC."/>

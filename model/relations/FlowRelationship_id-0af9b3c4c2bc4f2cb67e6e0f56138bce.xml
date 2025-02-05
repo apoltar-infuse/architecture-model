@@ -1,0 +1,12 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Send to CC"
+    id="id-0af9b3c4c2bc4f2cb67e6e0f56138bce">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-9ef98d2813f7495da8fed56176e59498.xml#id-9ef98d2813f7495da8fed56176e59498"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-b177e05dfd0b43bdbc9c01797455097e.xml#id-b177e05dfd0b43bdbc9c01797455097e"/>
+</archimate:FlowRelationship>

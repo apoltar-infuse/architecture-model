@@ -1,0 +1,12 @@
+<archimate:AccessRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Create a &quot;copy&quot; record from Contact linked to the Collection"
+    id="id-c5af62482a884a83b54ae8123045bec0">
+  <source
+      xsi:type="archimate:ApplicationFunction"
+      href="ApplicationFunction_id-ffc65e59b19342e9a69a48ab1c3b4edc.xml#id-ffc65e59b19342e9a69a48ab1c3b4edc"/>
+  <target
+      xsi:type="archimate:DataObject"
+      href="DataObject_id-eca529ddf94b4a62ad4b671f8297270b.xml#id-eca529ddf94b4a62ad4b671f8297270b"/>
+</archimate:AccessRelationship>
