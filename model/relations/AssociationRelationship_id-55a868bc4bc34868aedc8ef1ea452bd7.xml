@@ -1,9 +1,8 @@
 <archimate:AssociationRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="1-1 ???"
-    id="id-55a868bc4bc34868aedc8ef1ea452bd7"
-    documentation="Here https://infusemedia.atlassian.net/wiki/spaces/LVDev/pages/184385684/LV+Conceptual+Data+Model&#xD;&#xA;&#xD;&#xA;1-1 relationship, but I suppose that it should be *-1 (multiple reports for each verification list)">
+    name="1-1"
+    id="id-55a868bc4bc34868aedc8ef1ea452bd7">
   <source
       xsi:type="archimate:DataObject"
       href="DataObject_id-18ab2b92a9b54fbeb649d4afee8f18cf.xml#id-18ab2b92a9b54fbeb649d4afee8f18cf"/>

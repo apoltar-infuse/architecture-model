@@ -1,4 +1,8 @@
 <archimate:DataObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Campaign DTO"
-    id="id-2b041baf06ea48609948d547bee886f3"/>
+    id="id-2b041baf06ea48609948d547bee886f3"
+    documentation="from Registry">
+  <profiles
+      href="folder.xml#id-8cd8a2b059e54d31a7893b9835bbd3da"/>
+</archimate:DataObject>

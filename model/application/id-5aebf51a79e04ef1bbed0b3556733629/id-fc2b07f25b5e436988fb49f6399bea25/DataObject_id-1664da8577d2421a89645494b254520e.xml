@@ -1,5 +1,5 @@
 <archimate:DataObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="LT View"
+    name="Campaign View"
     id="id-1664da8577d2421a89645494b254520e"
     documentation="The final report dataset, copied from Report View, used for further analysis and sending to a client.&#xD;&#xA;&#xD;&#xA;LT View is a single entity per Campaign&#xD;&#xA;&#xD;&#xA;Physically, LT View entity is stored as a record in the Lists table, having local_type=4"/>

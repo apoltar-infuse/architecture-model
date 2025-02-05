@@ -2,4 +2,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Report Template DTO"
     id="id-18f63e21c0874b3186fc2b93cc720126"
-    documentation="Delivered by mail to LV"/>
+    documentation="Delivered by mail to LV">
+  <profiles
+      href="folder.xml#id-8cd8a2b059e54d31a7893b9835bbd3da"/>
+</archimate:DataObject>

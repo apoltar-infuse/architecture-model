@@ -1,8 +1,8 @@
 <archimate:DataObject
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Requirements DTO"
-    id="id-c54679e564d448f9b50f9478d30fb146"
-    documentation="Delivered by mail chain to LV">
+    name="Campaign DTO"
+    id="id-c3f03bb063e14277a4db297571c9155b"
+    documentation="CM -> LV">
   <profiles
       href="folder.xml#id-8cd8a2b059e54d31a7893b9835bbd3da"/>
 </archimate:DataObject>
