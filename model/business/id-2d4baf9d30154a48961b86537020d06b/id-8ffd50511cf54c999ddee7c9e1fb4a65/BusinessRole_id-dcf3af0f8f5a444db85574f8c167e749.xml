@@ -1,0 +1,8 @@
+<archimate:BusinessRole
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Quality Control Team (QC)"
+    id="id-dcf3af0f8f5a444db85574f8c167e749">
+  <properties
+      key="headcount quantity"
+      value="42"/>
+</archimate:BusinessRole>

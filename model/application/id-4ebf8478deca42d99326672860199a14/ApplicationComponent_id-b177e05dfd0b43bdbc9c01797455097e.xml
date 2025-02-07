@@ -1,4 +1,5 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Lead Tool"
-    id="id-b177e05dfd0b43bdbc9c01797455097e"/>
+    id="id-b177e05dfd0b43bdbc9c01797455097e"
+    documentation="Goal:&#xD;&#xA;Campaign Coordinators are able to review leads, prepare Client Reports, submit them to clients right from the Tool (replaced INFUSE Excel) &#xD;&#xA;&#xD;&#xA;Key Features:&#xD;&#xA;- Report preparation after verification&#xD;&#xA;- Report leads as accepted automatically in MainDB&#xD;&#xA;- Report leads to LSM&#xD;&#xA;- Integration with InfuseLG&#xD;&#xA;- Summary Report preparation&#xD;&#xA;- CQ requests processing"/>

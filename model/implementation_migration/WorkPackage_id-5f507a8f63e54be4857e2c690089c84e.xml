@@ -1,0 +1,5 @@
+<archimate:WorkPackage
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="As-Is performance tests"
+    id="id-5f507a8f63e54be4857e2c690089c84e"
+    documentation="Measure performance for the most painfull scenarios"/>

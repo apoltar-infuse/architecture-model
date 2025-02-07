@@ -1,4 +1,5 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Mirror RPA Lead Verification Module"
-    id="id-9e7d59b57eaa44d5b0a7f01b55abb073"/>
+    id="id-9e7d59b57eaa44d5b0a7f01b55abb073"
+    documentation="Objective:&#xD;&#xA;Automatic check (via DRS bot) of contacts from CM Module&#xD;&#xA;&#xD;&#xA;Key Features:&#xD;&#xA;A full copy of the LV module&#xD;&#xA;&#xD;&#xA;Key Users:&#xD;&#xA;- DBI Team&#xD;&#xA;- DRS bot&#xD;&#xA;"/>

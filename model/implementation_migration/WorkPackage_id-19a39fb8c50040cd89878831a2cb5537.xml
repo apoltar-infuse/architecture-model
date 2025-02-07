@@ -1,0 +1,5 @@
+<archimate:WorkPackage
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Refactor LV core"
+    id="id-19a39fb8c50040cd89878831a2cb5537"
+    documentation="- LV App with layered structure: Persistence(Data), Logic, Presentation, etc. "/>

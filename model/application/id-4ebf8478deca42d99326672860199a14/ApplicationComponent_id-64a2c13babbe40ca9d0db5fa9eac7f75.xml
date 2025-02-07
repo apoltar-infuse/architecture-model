@@ -1,4 +1,5 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Registry"
-    id="id-64a2c13babbe40ca9d0db5fa9eac7f75"/>
+    id="id-64a2c13babbe40ca9d0db5fa9eac7f75"
+    documentation="Goal:&#xD;&#xA;Sending repeating data between all modules that avoids redundancy and automates the processes &#xD;&#xA;&#xD;&#xA;Key Features:&#xD;&#xA;- receive and save data from other modules&#xD;&#xA;- prvoide Change log - list of changes for other modules they can take updates from&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;﻿&#xD;&#xA;&#xD;&#xA;"/>

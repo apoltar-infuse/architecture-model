@@ -1,0 +1,5 @@
+<archimate:WorkPackage
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Refactor DB usage"
+    id="id-f430d17a2b0744d4b5e78347ed0a6dce"
+    documentation="- Move aggregation / analytics workload out from operational DB&#xD;&#xA;- Move logic from DB triggers to back-end&#xD;&#xA;- Review indexes usage"/>

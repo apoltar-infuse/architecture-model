@@ -1,0 +1,8 @@
+<archimate:BusinessRole
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Campaign Coordinator"
+    id="id-245019f58d164c29a5032a8a26d0f29e">
+  <properties
+      key="headcount quantity"
+      value="75"/>
+</archimate:BusinessRole>

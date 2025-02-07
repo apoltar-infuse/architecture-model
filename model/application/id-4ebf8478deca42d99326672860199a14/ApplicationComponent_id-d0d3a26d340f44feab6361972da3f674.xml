@@ -1,4 +1,5 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Campaign Managment"
-    id="id-d0d3a26d340f44feab6361972da3f674"/>
+    id="id-d0d3a26d340f44feab6361972da3f674"
+    documentation="Objective:&#xD;&#xA;Main Database with Contacts/Companies for List Generation and Engagements tracking and management&#xD;&#xA;&#xD;&#xA;Key Features: &#xD;&#xA;- Adding/Creating Clients, Campaigns&#xD;&#xA;- Lists Creation and Management (segmentation, split,merge, applying SUP and NAC lists, etc.)&#xD;&#xA;- DB update (adding/updating/deleting contacts, updating companies info, titles mapping)&#xD;&#xA;- Collect engagements and email statuses in real-time&#xD;&#xA;- Submit lists for mailings, verification &amp; email validation&#xD;&#xA;- Final email validation prior to submission to Clients&#xD;&#xA;&#xD;&#xA;Additional Functionality:&#xD;&#xA;- Companies Tool&#xD;&#xA;- Contact Tool&#xD;&#xA;- Domains Tool&#xD;&#xA;- Titles tool&#xD;&#xA;- Functionality for special type of campaigns and engagements (ITBrief, Nurturing, DPO, SE, PL, SM, etc.)&#xD;&#xA;- Second touch automation&#xD;&#xA;- Refresh leads automation for Nurturing&#xD;&#xA;- Help panel&#xD;&#xA;- CS Results Upload Automation&#xD;&#xA;- Statistics charts for lists"/>

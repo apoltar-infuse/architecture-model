@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="OV Bot"
+    id="id-7db5060cc86c4f4f832f5bf11042f5f5"
+    documentation="Goal:&#xD;&#xA;The bot automatically pre-verifies the lead, reducing the spent on human resources. Performs the part of routine OVS processes - ﻿verify the lead's proof link, identify NWC status, refresh title info, etc. &#xD;&#xA;&#xD;&#xA;Key Features:&#xD;&#xA;- updates proof links and most of the information about the lead, ﻿identifies NWC status."/>

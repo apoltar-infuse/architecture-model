@@ -1,0 +1,8 @@
+<archimate:BusinessRole
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="LV Assessors"
+    id="id-d34e92eb3eca4d3691722676282dcf59">
+  <properties
+      key="headcount quantity"
+      value="3"/>
+</archimate:BusinessRole>

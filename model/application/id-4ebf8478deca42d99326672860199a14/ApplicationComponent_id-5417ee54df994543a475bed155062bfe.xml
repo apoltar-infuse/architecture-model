@@ -1,4 +1,5 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Lead Submission Module"
-    id="id-5417ee54df994543a475bed155062bfe"/>
+    id="id-5417ee54df994543a475bed155062bfe"
+    documentation="Objective:&#xD;&#xA;- Automatically submit leads to the client CRM systems through platform integrations&#xD;&#xA;&#xD;&#xA;Key Features:&#xD;&#xA;- Integration with client's CRM platforms&#xD;&#xA;- Automatic Lead submission from Leads tool&#xD;&#xA;&#xD;&#xA;"/>

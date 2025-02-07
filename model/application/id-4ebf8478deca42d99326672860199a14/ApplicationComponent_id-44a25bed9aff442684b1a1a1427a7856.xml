@@ -1,4 +1,5 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Lead Generation"
-    id="id-44a25bed9aff442684b1a1a1427a7856"/>
+    id="id-44a25bed9aff442684b1a1a1427a7856"
+    documentation="Objective:&#xD;&#xA;Campaigns’ initiation and performance and Campaign Coordinators' productivity monitoring&#xD;&#xA;&#xD;&#xA;Key Features:&#xD;&#xA;- Dashboard for all the campaigns: goals, deliveries, pacing, status, etc&#xD;&#xA;- CC performance monitoring&#xD;&#xA;- Entering all the initiated campaigns’ info into the platform for further distribution.&#xD;&#xA;- sending data to the Registry for other modules"/>

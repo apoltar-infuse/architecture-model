@@ -1,0 +1,8 @@
+<archimate:BusinessRole
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="LV Team Lead"
+    id="id-0fe306ef0f454b12a0582fb41d660bba">
+  <properties
+      key="headcount quantity"
+      value="42"/>
+</archimate:BusinessRole>

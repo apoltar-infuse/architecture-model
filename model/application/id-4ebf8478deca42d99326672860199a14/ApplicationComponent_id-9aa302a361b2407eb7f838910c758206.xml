@@ -1,4 +1,5 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="CW Constructor"
-    id="id-9aa302a361b2407eb7f838910c758206"/>
+    id="id-9aa302a361b2407eb7f838910c758206"
+    documentation="CW Constructor Goal:&#xD;&#xA;Automate the process of Email Copy and LP creation using Open AI&#xD;&#xA;&#xD;&#xA;﻿Key Features:&#xD;&#xA;- auto-creating Email Copies and LPs"/>

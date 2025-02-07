@@ -1,4 +1,5 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Validation Tool"
-    id="id-d06f01727b15491aac641c497b458cb6"/>
+    id="id-d06f01727b15491aac641c497b458cb6"
+    documentation="VM Platform Goal:&#xD;&#xA;Stand alone internal email validation service&#xD;&#xA;&#xD;&#xA;Key Features:&#xD;&#xA;- Monitoring dashboard&#xD;&#xA;- Smart queue&#xD;&#xA;- Scalability "/>

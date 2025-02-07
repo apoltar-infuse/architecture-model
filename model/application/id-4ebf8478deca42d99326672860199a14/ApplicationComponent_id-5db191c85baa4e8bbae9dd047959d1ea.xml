@@ -1,4 +1,5 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="INFUSE Flow (Bitrix24)"
-    id="id-5db191c85baa4e8bbae9dd047959d1ea"/>
+    id="id-5db191c85baa4e8bbae9dd047959d1ea"
+    documentation="Goal:&#xD;&#xA;Optimize the workflow of different teams with the automation tools of INFUSE Flow platform to increase productivity of those teams.&#xD;&#xA;&#xD;&#xA;Key Features:&#xD;&#xA;- CRM (deals, web forms, reports, flow automation, open channels integration, website widget)&#xD;&#xA;- Project Management (tasks, subtasks, Gantt, kanban, dependencies, recurring tasks &amp; task time-tracking)&#xD;&#xA;- Time Management (work time automatic calculation &amp; summary, work reports, shared calendars)&#xD;&#xA;- HR (employee directory, company structure, absence chart &amp; leave request workflow, announcements &amp; appreciation badges)&#xD;&#xA;"/>

@@ -1,4 +1,5 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="6 Sense API"
-    id="id-39fbd0eec0254b77bed88fdaf4851a04"/>
+    id="id-39fbd0eec0254b77bed88fdaf4851a04"
+    documentation="6Sense API:&#xD;&#xA;- Integration with 6Sense to provide additional features for clients&#xD;&#xA;&#xD;&#xA;﻿Key Features:&#xD;&#xA;- Connection with 6Sense API to retrieve data&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;Future Plans:&#xD;&#xA;- Future Plans: Merger with LG&#xD;&#xA;&#xD;&#xA;"/>

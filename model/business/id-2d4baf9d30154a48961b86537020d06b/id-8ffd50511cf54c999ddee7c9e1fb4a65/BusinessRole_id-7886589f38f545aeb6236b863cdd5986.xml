@@ -1,0 +1,8 @@
+<archimate:BusinessRole
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Lead Verification Teams"
+    id="id-7886589f38f545aeb6236b863cdd5986">
+  <properties
+      key="headcount quantity"
+      value="255"/>
+</archimate:BusinessRole>
