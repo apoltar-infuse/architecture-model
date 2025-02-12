@@ -1,7 +1,7 @@
 <archimate:ArchimateDiagramModel
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Architecture Overview"
+    name="INFUSE Platform Overview"
     id="id-877e38e77e2241ae864cf45478e713f9">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"

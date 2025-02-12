@@ -1,0 +1,5 @@
+<archimate:CourseOfAction
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="External Gateway"
+    id="id-718242fd1d2441b6bf2aeea7c50f51aa"
+    documentation="Motivation:&#xD;&#xA;- chaotic integration with external parties&#xD;&#xA;- secrets do not managed properly&#xD;&#xA;- no inbound policies: direct access to modules from external systems. No throttling, security, etc.&#xD;&#xA; "/>

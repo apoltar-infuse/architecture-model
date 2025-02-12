@@ -6,6 +6,6 @@
       xsi:type="archimate:Outcome"
       href="Outcome_id-08dc041af77c450d884daae64b91b69c.xml#id-08dc041af77c450d884daae64b91b69c"/>
   <target
-      xsi:type="archimate:Outcome"
-      href="Outcome_id-53ea28f8bfc94fe2986421c0896badbb.xml#id-53ea28f8bfc94fe2986421c0896badbb"/>
+      xsi:type="archimate:Value"
+      href="Value_id-b159f75be69641609316e1e7df41f2ff.xml#id-b159f75be69641609316e1e7df41f2ff"/>
 </archimate:InfluenceRelationship>
