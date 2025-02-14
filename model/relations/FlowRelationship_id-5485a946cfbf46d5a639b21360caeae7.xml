@@ -1,12 +1,12 @@
 <archimate:FlowRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    id="id-e077252e29fe477d8db8a4d42e222b27"
-    documentation="campaign">
+    name="CID"
+    id="id-5485a946cfbf46d5a639b21360caeae7">
   <source
       xsi:type="archimate:ApplicationComponent"
       href="ApplicationComponent_id-64a2c13babbe40ca9d0db5fa9eac7f75.xml#id-64a2c13babbe40ca9d0db5fa9eac7f75"/>
   <target
       xsi:type="archimate:ApplicationComponent"
-      href="ApplicationComponent_id-5417ee54df994543a475bed155062bfe.xml#id-5417ee54df994543a475bed155062bfe"/>
+      href="ApplicationComponent_id-deb9626a3cd9493b8f47460042a2a74a.xml#id-deb9626a3cd9493b8f47460042a2a74a"/>
 </archimate:FlowRelationship>

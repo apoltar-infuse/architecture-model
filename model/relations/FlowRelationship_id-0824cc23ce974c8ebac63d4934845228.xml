@@ -1,15 +1,11 @@
 <archimate:FlowRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Send Leads"
-    id="id-0b63a6181a7746a994a4885543884da1">
-  <properties
-      key="status"
-      value="not implemented"/>
+    id="id-0824cc23ce974c8ebac63d4934845228">
   <source
       xsi:type="archimate:ApplicationComponent"
-      href="ApplicationComponent_id-b177e05dfd0b43bdbc9c01797455097e.xml#id-b177e05dfd0b43bdbc9c01797455097e"/>
-  <target
-      xsi:type="archimate:ApplicationComponent"
       href="ApplicationComponent_id-0cce8561e4bf4cc69bcfd32e51c27e20.xml#id-0cce8561e4bf4cc69bcfd32e51c27e20"/>
+  <target
+      xsi:type="archimate:ApplicationInterface"
+      href="ApplicationInterface_id-afeb37a1c1224469a2acc68ba5ceb808.xml#id-afeb37a1c1224469a2acc68ba5ceb808"/>
 </archimate:FlowRelationship>

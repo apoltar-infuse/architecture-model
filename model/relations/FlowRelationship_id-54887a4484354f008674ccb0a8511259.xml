@@ -2,7 +2,8 @@
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Send Campaign"
-    id="id-54887a4484354f008674ccb0a8511259">
+    id="id-54887a4484354f008674ccb0a8511259"
+    documentation="Registry sends the following entities:&#xD;&#xA;- Clients&#xD;&#xA;- Campaign">
   <source
       xsi:type="archimate:ApplicationComponent"
       href="ApplicationComponent_id-64a2c13babbe40ca9d0db5fa9eac7f75.xml#id-64a2c13babbe40ca9d0db5fa9eac7f75"/>

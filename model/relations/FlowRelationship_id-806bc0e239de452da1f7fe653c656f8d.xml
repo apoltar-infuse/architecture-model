@@ -1,7 +1,8 @@
 <archimate:FlowRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    id="id-806bc0e239de452da1f7fe653c656f8d">
+    id="id-806bc0e239de452da1f7fe653c656f8d"
+    documentation="messenger&#xD;&#xA;cid&#xD;&#xA;clients&#xD;&#xA;request for POC (logo, landing page)&#xD;&#xA;">
   <source
       xsi:type="archimate:ApplicationComponent"
       href="ApplicationComponent_id-64a2c13babbe40ca9d0db5fa9eac7f75.xml#id-64a2c13babbe40ca9d0db5fa9eac7f75"/>

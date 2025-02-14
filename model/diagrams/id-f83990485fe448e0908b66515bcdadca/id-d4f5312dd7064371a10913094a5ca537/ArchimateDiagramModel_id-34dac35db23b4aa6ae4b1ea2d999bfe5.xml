@@ -6,22 +6,28 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-f7cb7574238a44cc97d5d781d8ff7ff6"
-      targetConnections="id-5208f922f73f44e0b5246f6e00137ee8"
+      targetConnections="id-5208f922f73f44e0b5246f6e00137ee8 id-757af08811c34814909e0a6196b697e4"
       font="1|Segoe UI|12.0|1|WINDOWS|1|-16|0|0|0|700|0|0|0|0|3|2|1|34|Segoe UI"
       textPosition="1">
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="id-759b4137435a42efb4f37baea760b73d"
+        textPosition="0"
         source="id-f7cb7574238a44cc97d5d781d8ff7ff6"
         target="id-a4c315fcc37841e98a593f5ba2104edb">
+      <bendpoints
+          startX="-210"
+          startY="-9"
+          endX="152"
+          endY="-15"/>
       <archimateRelationship
           xsi:type="archimate:FlowRelationship"
           href="FlowRelationship_id-0b63a6181a7746a994a4885543884da1.xml#id-0b63a6181a7746a994a4885543884da1"/>
     </sourceConnections>
     <bounds
-        x="492"
+        x="504"
         y="216"
-        width="181"
+        width="253"
         height="115"/>
     <archimateElement
         xsi:type="archimate:ApplicationComponent"
@@ -34,11 +40,26 @@
       fontColor="#ffffff"
       fillColor="#408080"
       textPosition="1">
+    <sourceConnections
+        xsi:type="archimate:DiagramModelArchimateConnection"
+        id="id-757af08811c34814909e0a6196b697e4"
+        textPosition="0"
+        source="id-a4c315fcc37841e98a593f5ba2104edb"
+        target="id-f7cb7574238a44cc97d5d781d8ff7ff6">
+      <bendpoints
+          startX="116"
+          startY="21"
+          endX="-246"
+          endY="27"/>
+      <archimateRelationship
+          xsi:type="archimate:FlowRelationship"
+          href="FlowRelationship_id-cf976abb3d0d468587987406ff0641ce.xml#id-cf976abb3d0d468587987406ff0641ce"/>
+    </sourceConnections>
     <bounds
         x="208"
         y="246"
         width="120"
-        height="55"/>
+        height="67"/>
     <archimateElement
         xsi:type="archimate:ApplicationComponent"
         href="ApplicationComponent_id-0cce8561e4bf4cc69bcfd32e51c27e20.xml#id-0cce8561e4bf4cc69bcfd32e51c27e20"/>
@@ -49,6 +70,7 @@
     <sourceConnections
         xsi:type="archimate:DiagramModelArchimateConnection"
         id="id-5208f922f73f44e0b5246f6e00137ee8"
+        textPosition="0"
         source="id-5cd5465a7c91411d8cb918a1c2572dcc"
         target="id-f7cb7574238a44cc97d5d781d8ff7ff6">
       <archimateRelationship
@@ -56,7 +78,7 @@
           href="FlowRelationship_id-0af9b3c4c2bc4f2cb67e6e0f56138bce.xml#id-0af9b3c4c2bc4f2cb67e6e0f56138bce"/>
     </sourceConnections>
     <bounds
-        x="816"
+        x="900"
         y="246"
         width="120"
         height="55"/>

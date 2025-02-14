@@ -1,0 +1,5 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="SCS Leads File"
+    id="id-a9ba5c7e55a94a609c8822dcee17631a"
+    documentation="CSV data containing:&#xD;&#xA;first_name,last_name,company,title,prooflink,ov_date,email,phone,employees,employees_prooflink,industry,asset,date_engaged"/>

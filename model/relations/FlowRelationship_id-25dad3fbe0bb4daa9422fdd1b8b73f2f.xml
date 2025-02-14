@@ -1,12 +1,12 @@
 <archimate:FlowRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    id="id-e077252e29fe477d8db8a4d42e222b27"
-    documentation="campaign">
+    id="id-25dad3fbe0bb4daa9422fdd1b8b73f2f"
+    documentation="Уточнить у ковалева">
   <source
       xsi:type="archimate:ApplicationComponent"
       href="ApplicationComponent_id-64a2c13babbe40ca9d0db5fa9eac7f75.xml#id-64a2c13babbe40ca9d0db5fa9eac7f75"/>
   <target
       xsi:type="archimate:ApplicationComponent"
-      href="ApplicationComponent_id-5417ee54df994543a475bed155062bfe.xml#id-5417ee54df994543a475bed155062bfe"/>
+      href="ApplicationComponent_id-bd656dee5a044199bb583aa0587a9c6d.xml#id-bd656dee5a044199bb583aa0587a9c6d"/>
 </archimate:FlowRelationship>

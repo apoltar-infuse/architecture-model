@@ -1,12 +1,11 @@
 <archimate:FlowRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="Send Campaign"
-    id="id-bf7941d730514a04b30026d7c4a225c3"
-    documentation="Registry sends the following entities:&#xD;&#xA;- Campaign">
+    id="id-b12e07b7ce924abf8493e43ceecf60a0"
+    documentation="poc result">
   <source
       xsi:type="archimate:ApplicationComponent"
-      href="ApplicationComponent_id-44a25bed9aff442684b1a1a1427a7856.xml#id-44a25bed9aff442684b1a1a1427a7856"/>
+      href="ApplicationComponent_id-5db191c85baa4e8bbae9dd047959d1ea.xml#id-5db191c85baa4e8bbae9dd047959d1ea"/>
   <target
       xsi:type="archimate:ApplicationComponent"
       href="ApplicationComponent_id-64a2c13babbe40ca9d0db5fa9eac7f75.xml#id-64a2c13babbe40ca9d0db5fa9eac7f75"/>

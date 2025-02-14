@@ -1,0 +1,5 @@
+<archimate:ApplicationInterface
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Upload Contacts Engagements"
+    id="id-afeb37a1c1224469a2acc68ba5ceb808"
+    documentation="endpoint /api/partners/scs/upload-data"/>
