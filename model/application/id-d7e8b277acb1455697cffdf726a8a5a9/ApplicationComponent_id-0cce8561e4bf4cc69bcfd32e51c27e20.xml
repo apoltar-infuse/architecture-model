@@ -1,7 +1,8 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="SCS"
-    id="id-0cce8561e4bf4cc69bcfd32e51c27e20">
+    id="id-0cce8561e4bf4cc69bcfd32e51c27e20"
+    documentation="External System for Leads Engagements collection">
   <properties
       key="status"/>
   <properties

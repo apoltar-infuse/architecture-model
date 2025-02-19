@@ -2,4 +2,4 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Update Engagements Processing Status"
     id="id-e72fade359d84cc1becc2dc3a19b85fe"
-    documentation="Receives status of processed Leads Engagements&#xD;&#xA;&#xD;&#xA;endpoint /api/changeUploadStatus"/>
+    documentation="Receives status of processed Leads Engagements on the SCS side&#xD;&#xA;&#xD;&#xA;endpoint /api/changeUploadStatus"/>

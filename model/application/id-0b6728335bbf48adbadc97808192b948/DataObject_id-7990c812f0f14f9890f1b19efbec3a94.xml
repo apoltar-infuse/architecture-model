@@ -1,0 +1,8 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Asset DTO"
+    id="id-7990c812f0f14f9890f1b19efbec3a94"
+    documentation="LP -> DPO">
+  <profiles
+      href="folder.xml#id-8cd8a2b059e54d31a7893b9835bbd3da"/>
+</archimate:DataObject>

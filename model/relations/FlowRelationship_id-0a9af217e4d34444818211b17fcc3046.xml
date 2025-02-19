@@ -1,0 +1,12 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Get assets / LPs by campaign"
+    id="id-0a9af217e4d34444818211b17fcc3046">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-be40fa3991ae4c1c85e43b03b3cfeabc.xml#id-be40fa3991ae4c1c85e43b03b3cfeabc"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-3789a962e03b49319b993f8c231f1a02.xml#id-3789a962e03b49319b993f8c231f1a02"/>
+</archimate:FlowRelationship>

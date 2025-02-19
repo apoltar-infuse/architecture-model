@@ -1,0 +1,5 @@
+<archimate:ApplicationComponent
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Auth"
+    id="id-9c47809fb6a74e309e9511b99854838f"
+    documentation="Auth is technical service for authorization&#xD;&#xA;It uses MS Azure Ad for authentication&#xD;&#xA;&#xD;&#xA;Supports 2 authorization flows:&#xD;&#xA;1. Authorization Code Flow&#xD;&#xA;2. Client Credentials Flow"/>

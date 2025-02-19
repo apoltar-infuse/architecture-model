@@ -2,4 +2,4 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Upload Leads"
     id="id-92fbe878c1e140f1be7c175a43b6a5b5"
-    documentation="POST /api/add"/>
+    documentation="REST API endpoint for receiving Leads from LT for further processing&#xD;&#xA;&#xD;&#xA;POST /api/add"/>

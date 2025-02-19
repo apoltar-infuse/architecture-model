@@ -1,0 +1,12 @@
+<archimate:FlowRelationship
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Authorization Code Flow?"
+    id="id-45f50390c87f4fe08567ed9bdcb2544f">
+  <source
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-bd656dee5a044199bb583aa0587a9c6d.xml#id-bd656dee5a044199bb583aa0587a9c6d"/>
+  <target
+      xsi:type="archimate:ApplicationComponent"
+      href="ApplicationComponent_id-9c47809fb6a74e309e9511b99854838f.xml#id-9c47809fb6a74e309e9511b99854838f"/>
+</archimate:FlowRelationship>

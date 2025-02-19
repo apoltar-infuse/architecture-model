@@ -3,7 +3,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="00. LV Business Context"
     id="id-8e3d601eeaff4ebe9ef355a47d2728bd"
-    documentation=" Business Context показывает, какие роли взаимодействуют с процессом верификации лидов (Lead Verification) и сколько человек задействовано в каждой из них.&#xD;&#xA;&#xD;&#xA;Lead Verification Teams (255) – основная группа, выполняющая задачи по верификации лидов.&#xD;&#xA;LV Team Lead (42) – руководители команд, контролирующие процесс верификации.&#xD;&#xA;Campaign Coordinator (75) – отвечает за координацию кампаний и распределение лидов.&#xD;&#xA;Quality Control Team (QC) (42) – команда контроля качества, проверяющая результаты верификации.&#xD;&#xA;LV Assessors (3) – специалисты, оценивающие эффективность процесса.&#xD;&#xA;DB/ListGen (role LA) (13) – команда, занимающаяся генерацией и управлением баз данных лидов.&#xD;&#xA;CAT (role LA) (9) – команда, участвующая в анализе и классификации данных.">
+    documentation="&#xD;&#xA;The Business Context outlines the roles involved in the lead verification process and the number of people assigned to each role.  &#xD;&#xA;&#xD;&#xA;# Roles&#xD;&#xA;&#xD;&#xA;| Role                          | Number of People | Description |&#xD;&#xA;|--------------------------------|-----------------|-------------|&#xD;&#xA;| **Lead Verification Teams**    | **255**         | The primary group responsible for lead verification tasks. |&#xD;&#xA;| **LV Team Lead**               | **42**          | Team leaders overseeing the verification process. |&#xD;&#xA;| **Campaign Coordinator**       | **75**          | Responsible for campaign coordination and lead distribution. |&#xD;&#xA;| **Quality Control Team (QC)**   | **42**          | Ensures the quality of verification results. |&#xD;&#xA;| **LV Assessors**               | **3**           | Specialists assessing the effectiveness of the process. |&#xD;&#xA;| **DB/ListGen (role LA)**       | **13**          | Team responsible for lead database generation and management. |&#xD;&#xA;| **CAT (role LA)**              | **9**           | Team involved in data analysis and classification. |">
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-3e36c970ffd1414997df3efcd55ad990"
@@ -84,7 +84,8 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-a51db4f6250a43a48ac693388debc4b8"
-      targetConnections="id-a481a569dcfa4923b5e89e2f1f47d58d">
+      targetConnections="id-a481a569dcfa4923b5e89e2f1f47d58d"
+      textPosition="1">
     <features
         name="labelExpression"
         value="${name}&#xD;&#xA;(${property:headcount quantity})"/>
@@ -100,7 +101,8 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-80d252f7d8fd4a4fa421788082867c2b"
-      targetConnections="id-dbc9e93a29674449a7629ca2272539a2">
+      targetConnections="id-dbc9e93a29674449a7629ca2272539a2"
+      textPosition="1">
     <features
         name="labelExpression"
         value="${name}&#xD;&#xA;(${property:headcount quantity})"/>
@@ -132,7 +134,8 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-6b5781aae4e3487abeb30a7abee1bd4c"
-      targetConnections="id-222a8af486af43979f4fe71db0cf270e">
+      targetConnections="id-222a8af486af43979f4fe71db0cf270e"
+      textPosition="1">
     <features
         name="labelExpression"
         value="${name}&#xD;&#xA;(${property:headcount quantity})"/>
@@ -148,7 +151,8 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-f3eec59662974e7c8e595bb4ac26740e"
-      targetConnections="id-500afeca03bf429c9295279fc2922e97">
+      targetConnections="id-500afeca03bf429c9295279fc2922e97"
+      textPosition="1">
     <features
         name="labelExpression"
         value="${name}&#xD;&#xA;(${property:headcount quantity})"/>
@@ -180,7 +184,8 @@
   <children
       xsi:type="archimate:DiagramModelArchimateObject"
       id="id-fc24277d7bf64df1bc357865706db7f9"
-      targetConnections="id-3af59a070c9f4dc19b249d450de30a81">
+      targetConnections="id-3af59a070c9f4dc19b249d450de30a81"
+      textPosition="1">
     <features
         name="labelExpression"
         value="${name}&#xD;&#xA;(${property:headcount quantity})"/>
@@ -192,19 +197,5 @@
     <archimateElement
         xsi:type="archimate:BusinessRole"
         href="BusinessRole_id-543abbae506a46b7a57e8ef619e1736f.xml#id-543abbae506a46b7a57e8ef619e1736f"/>
-  </children>
-  <children
-      xsi:type="archimate:DiagramModelNote"
-      id="id-ba8f0398ed8849e3ac8b7653106fd69d"
-      textAlignment="1"
-      content="${view.name}">
-    <features
-        name="labelExpression"
-        value=" Business Context показывает, какие роли взаимодействуют с модулем Lead Verification и сколько человек задействовано в каждой из них.&#xD;&#xA;&#xD;&#xA;Lead Verification Teams (255) – основная группа, выполняющая задачи по верификации лидов.&#xD;&#xA;LV Team Lead (42) – руководители команд, контролирующие процесс верификации.&#xD;&#xA;Campaign Coordinator (75) – отвечает за координацию кампаний и распределение лидов.&#xD;&#xA;Quality Control Team (QC) (42) – команда контроля качества, проверяющая результаты верификации.&#xD;&#xA;LV Assessors (3) – специалисты, оценивающие эффективность процесса.&#xD;&#xA;DB/ListGen (role LA) (13) – команда, занимающаяся генерацией и управлением баз данных лидов.&#xD;&#xA;CAT (role LA) (9) – команда, участвующая в анализе и классификации данных."/>
-    <bounds
-        x="948"
-        y="108"
-        width="481"
-        height="313"/>
   </children>
 </archimate:ArchimateDiagramModel>

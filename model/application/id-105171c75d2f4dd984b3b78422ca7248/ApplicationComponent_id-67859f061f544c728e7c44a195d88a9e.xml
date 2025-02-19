@@ -1,4 +1,5 @@
 <archimate:ApplicationComponent
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="SCS Adapter"
-    id="id-67859f061f544c728e7c44a195d88a9e"/>
+    id="id-67859f061f544c728e7c44a195d88a9e"
+    documentation="Adapter for integration with external system - SCS&#xD;&#xA;It supports asyncronious processing of Leads. "/>

@@ -1,6 +1,7 @@
 <archimate:FlowRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Get Campaigns, Clients, Campaign_subs, Users"
     id="id-2d6f31f605b24087b2bb5df9076e8eb7">
   <source
       xsi:type="archimate:ApplicationComponent"

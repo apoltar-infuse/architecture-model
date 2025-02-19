@@ -1,0 +1,8 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Lead statuses DTO"
+    id="id-0624f2e35c6349e7a87b58f9f819be63"
+    documentation="LV/LT -> DPO">
+  <profiles
+      href="folder.xml#id-8cd8a2b059e54d31a7893b9835bbd3da"/>
+</archimate:DataObject>

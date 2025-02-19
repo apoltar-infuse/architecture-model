@@ -1,0 +1,8 @@
+<archimate:DataObject
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Campaigns DTO"
+    id="id-bb6f5f2fd2e14ff0b6f7787495fca815"
+    documentation="Registry -> DPO">
+  <profiles
+      href="folder.xml#id-8cd8a2b059e54d31a7893b9835bbd3da"/>
+</archimate:DataObject>
