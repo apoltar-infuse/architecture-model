@@ -2,7 +2,7 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="DPO Platform"
     id="id-3789a962e03b49319b993f8c231f1a02"
-    documentation="DPO Platform Goal:&#xD;&#xA;Making easier DPO leads processing from the perspective of CC, DPO teams and vendors&#xD;&#xA;&#xD;&#xA;Key Features: &#xD;&#xA;- Create a DPO campaign&#xD;&#xA;- Allocate providers (vendors)&#xD;&#xA;- Receive leads from vendors&#xD;&#xA;- Upload DPO leads to Main DB&#xD;&#xA;- Collect the leads' statuses from Lead Tool&#xD;&#xA;- DPO Campaigns progress tracking&#xD;&#xA;&#xD;&#xA;Пепин">
+    documentation="DPO Platform Goal:&#xD;&#xA;Making easier DPO leads processing from the perspective of CC, DPO teams and vendors&#xD;&#xA;&#xD;&#xA;Key Features: &#xD;&#xA;- Create a DPO campaign&#xD;&#xA;- Allocate providers (vendors)&#xD;&#xA;- Receive leads from vendors&#xD;&#xA;- Upload DPO leads to Main DB&#xD;&#xA;- Collect the leads' statuses from Lead Tool&#xD;&#xA;- DPO Campaigns progress tracking&#xD;&#xA;">
   <properties
       key="url"
       value="https://infusemedia.atlassian.net/wiki/spaces/DI/pages/196542591/Platform+space+overview"/>

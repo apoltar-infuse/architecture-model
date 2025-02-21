@@ -2,4 +2,8 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Sending Module"
     id="id-bd656dee5a044199bb583aa0587a9c6d"
-    documentation="Objective:&#xD;&#xA;Email campaigns’ scheduling and distribution&#xD;&#xA;&#xD;&#xA;Key Features:&#xD;&#xA;- Campaign scheduling and sending&#xD;&#xA;- HTML redactor for Email Copy preparation&#xD;&#xA;- Collecting bounces and syncing them with the MainDB&#xD;&#xA;- Engagements and bounces monitoring&#xD;&#xA;- Live email validation processing&#xD;&#xA;- Infrastructure Managers’ dashboard &#xD;&#xA;- Email Copy Uploader &#xD;&#xA;- Bulk segments sending &amp; scheduling&#xD;&#xA;- Calendar Invites&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;Ковалев"/>
+    documentation="Objective:&#xD;&#xA;Email campaigns’ scheduling and distribution&#xD;&#xA;&#xD;&#xA;Key Features:&#xD;&#xA;- Campaign scheduling and sending&#xD;&#xA;- HTML redactor for Email Copy preparation&#xD;&#xA;- Collecting bounces and syncing them with the MainDB&#xD;&#xA;- Engagements and bounces monitoring&#xD;&#xA;- Live email validation processing&#xD;&#xA;- Infrastructure Managers’ dashboard &#xD;&#xA;- Email Copy Uploader &#xD;&#xA;- Bulk segments sending &amp; scheduling&#xD;&#xA;- Calendar Invites&#xD;&#xA;&#xD;&#xA;&#xD;&#xA;Ковалев">
+  <properties
+      key="url"
+      value="https://infusemedia.atlassian.net/wiki/spaces/SM/pages/151716912/SM+Technical+Documentation"/>
+</archimate:ApplicationComponent>

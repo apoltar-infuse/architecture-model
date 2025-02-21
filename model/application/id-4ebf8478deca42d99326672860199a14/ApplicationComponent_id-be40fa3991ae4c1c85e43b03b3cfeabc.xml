@@ -2,4 +2,8 @@
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Landing Pages Platform"
     id="id-be40fa3991ae4c1c85e43b03b3cfeabc"
-    documentation="Goal:&#xD;&#xA;Create Landing Pages for POC and Live campaigns - to allow maximum flexibility for Designers and CCs, and minimize their manual input.&#xD;&#xA;&#xD;&#xA;Key Features:&#xD;&#xA;- Create campaigns’ and assets’ tracking links &#xD;&#xA;- Record and store Engagements&#xD;&#xA;- Promotion LP Fast Creation for Campaign Coordinators&#xD;&#xA;- Fully featured Editor for Designers&#xD;&#xA;- Microsoft &amp; PeerSpot Bulks&#xD;&#xA;- LP Versions control system&#xD;&#xA;- Responses Upload"/>
+    documentation="Goal:&#xD;&#xA;Create Landing Pages for POC and Live campaigns - to allow maximum flexibility for Designers and CCs, and minimize their manual input.&#xD;&#xA;&#xD;&#xA;Key Features:&#xD;&#xA;- Create campaigns’ and assets’ tracking links &#xD;&#xA;- Record and store Engagements&#xD;&#xA;- Promotion LP Fast Creation for Campaign Coordinators&#xD;&#xA;- Fully featured Editor for Designers&#xD;&#xA;- Microsoft &amp; PeerSpot Bulks&#xD;&#xA;- LP Versions control system&#xD;&#xA;- Responses Upload">
+  <properties
+      key="url"
+      value="https://infusemedia.atlassian.net/wiki/spaces/IL/pages/187203620/LP+Platform+ER+Diagram"/>
+</archimate:ApplicationComponent>

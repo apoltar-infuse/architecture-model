@@ -1,12 +1,13 @@
 <archimate:FlowRelationship
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    id="id-3883259a07ff4252bbf873d406489e1a"
-    documentation="read-only прямой доступ в базу (делают реплику)&#xD;&#xA;">
+    name="Результаты PoC?"
+    id="id-1593123e4f624f43acb473ea937f8d4b"
+    documentation="выгружается скриптом по команде CDT">
   <source
       xsi:type="archimate:ApplicationComponent"
       href="ApplicationComponent_id-5db191c85baa4e8bbae9dd047959d1ea.xml#id-5db191c85baa4e8bbae9dd047959d1ea"/>
   <target
-      xsi:type="archimate:ApplicationComponent"
-      href="ApplicationComponent_id-6f78237a510e483e817e1790566bd987.xml#id-6f78237a510e483e817e1790566bd987"/>
+      xsi:type="archimate:TechnologyService"
+      href="TechnologyService_id-59ab369eb69d41e08ca17b0f2e176092.xml#id-59ab369eb69d41e08ca17b0f2e176092"/>
 </archimate:FlowRelationship>
